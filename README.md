@@ -72,3 +72,5 @@ data processing, data driven decisions,
 - [Wikipedia on EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 - [IBM on EDAs](https://www.ibm.com/cloud/learn/exploratory-data-analysis)
 - [Engineering statistics handbook](https://www.itl.nist.gov/div898/handbook/eda/eda.htm)
+- [Interesting ways of analysing missing values](https://docs.dataprep.ai/user_guide/eda/plot_missing.html)
+- [Dataprep: Library for data preparation](https://docs.dataprep.ai/index.html)

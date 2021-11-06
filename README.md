@@ -15,6 +15,12 @@ a problem.
 corresponds to one or more tables, where every column of a table represents a
 particular variable, each row corresponds to a given record of the dataset in
 question.
+- The **impact of missing values** in an specific feature, is the change in the
+dataset's characteristics after removing the rows where the feature values
+are missing.
+- The **impact of missing values** in an specific feature *x* on another feature *y*,
+is the change of the characteristics of the feature *y* after removing the values of
+*y* for which *x* is missing.
 
 
 ## Objectives of EDA
@@ -64,7 +70,7 @@ pattern recognition, image compression, predictive models, missing values,
 central tendency, spread statistics, data analysis, robust statistics,
 nonparametric statistics, statistical model, systematic bias, bias, ETL,
 data mining, statistical thinking, raw data, algorithm, data product,
-data processing, data driven decisions,
+data processing, data driven decisions, plotly, matplotlib, bokeh, dash
 
 
 ## Resources

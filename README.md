@@ -60,6 +60,7 @@ is the change of the characteristics of the feature *y* after removing the value
 - Principal Component Analysis (PCA)
 - Nonlinear dimensionality reduction (NLDR)
 - Correlations
+- Kernel Density Estimation plot
 
 
 ## Key terms
@@ -72,7 +73,8 @@ central tendency, spread statistics, data analysis, robust statistics,
 nonparametric statistics, statistical model, systematic bias, bias, ETL,
 data mining, statistical thinking, raw data, algorithm, data product,
 data processing, data driven decisions, plotly, matplotlib, bokeh, dash,
-hierarchichal clustering, nullity correlation,
+hierarchichal clustering, nullity correlation, jupyter notebook , Google Colab,
+Kaggle notebook, Interquartile range,
 
 
 ## Resources

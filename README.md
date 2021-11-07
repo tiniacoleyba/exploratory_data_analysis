@@ -52,6 +52,7 @@ is the change of the characteristics of the feature *y* after removing the value
 - Run chart, which is a line graph of data plotted over time
 - Bubble chart
 - Heat map
+- Dendrogram
 - Pareto chart
 - Parallel coordinates
 - Odds ratio
@@ -70,7 +71,8 @@ pattern recognition, image compression, predictive models, missing values,
 central tendency, spread statistics, data analysis, robust statistics,
 nonparametric statistics, statistical model, systematic bias, bias, ETL,
 data mining, statistical thinking, raw data, algorithm, data product,
-data processing, data driven decisions, plotly, matplotlib, bokeh, dash
+data processing, data driven decisions, plotly, matplotlib, bokeh, dash,
+hierarchichal clustering, nullity correlation,
 
 
 ## Resources
